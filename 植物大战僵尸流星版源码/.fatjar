@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Mar 18 17:45:09 CST 2011
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=C\:\\Documents and Settings\\Administrator\\\u684C\u9762\\server.jar
+manifest.mergeall=true
+manifest.mainclass=Main
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<jar|LGame-JavaSE-Physics-0.2.94.jar>
+includes=
